@@ -1,6 +1,6 @@
 ## Hello, i am Jônatas Duarte!!
 
-- 🌱 I’m currently learning JS, HTML and CSS.
+- 📖 I’m currently learning JS, HTML and CSS.
 - 📚 Computer Technician - IFAL.
 - <img src= https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png width="20.5" height="13.4"> I am Brazilian, AL 
 - ⚡ Fun fact:  
