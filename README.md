@@ -1,6 +1,6 @@
 ## Hello, i am Jônatas Duarte!!
 
-- I’m currently learning Python 📖
+- I’m currently learning React, Next.js and Python 📖
 - Computer Technician - IFAL 📚
 - Computer Science 2/8 - UFAL ⚛
 - I am Brazilian, AL <img src= https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png width="20.5" height="13.4"> 
@@ -20,6 +20,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="22" width="28" src="https://images.viblo.asia/8c57d914-3cd2-4f55-b237-a4a6de765fc6.png">
+  <img align="center" alt="React" height="22" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  <img align="center" alt="Next.js" height="22" width="28" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png">
+
 </div>
   
   ##
