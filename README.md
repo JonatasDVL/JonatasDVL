@@ -22,6 +22,7 @@
   <img align="center" alt="Ruby" height="22" width="28" src="https://images.viblo.asia/8c57d914-3cd2-4f55-b237-a4a6de765fc6.png">
   <img align="center" alt="React" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   <img align="center" alt="Next.js" height="30" width="30" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png">
+  <img align="center" alt="TypeScript" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
 
 </div>
   
